@@ -1,0 +1,42 @@
+
+---
+
+## 🧼 `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and data
+*.log
+*.csv
+*.tmp
+
+# Gradio cache
+gradio_cached_examples/
+
+# Model files
+*.joblib
+*.sav
+*.h5
+
+# System
+Thumbs.db
