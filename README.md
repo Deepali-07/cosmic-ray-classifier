@@ -1,8 +1,7 @@
 ---
-
 ## 🪐 `README.md`
 
-```markdown
+```
 # 🌌 Cosmic Ray Classifier
 
 A machine learning-powered application that classifies **cosmic ray events** based on measurable physical parameters such as **energy, angle, magnetic field, and temperature**.  
