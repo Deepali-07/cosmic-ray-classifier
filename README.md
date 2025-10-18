@@ -132,15 +132,6 @@ Shows histograms and pairplots for understanding feature relationships.
 
 ---
 
-## 📷 Preview
-
-> **Prediction Interface**
-> *(Example UI once app is launched via Gradio)*
->
-> ![App Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Gradio+Cosmic+Classifier+UI)
-
----
-
 ## 👩‍🚀 Author
 
 **Deepali Madala**
