@@ -37,31 +37,6 @@ It also provides data visualizations and feature importance insights for better 
 
 ---
 
-## 🗂️ Project Structure
-
-```
-
-cosmic-ray-classifier/
-│
-├── data/
-│   └── cosmic_events.csv           # Dataset
-│
-├── models/
-│   ├── rf_model.pkl                # Trained RandomForest model
-│   └── scaler.pkl                  # Scaler used for preprocessing
-│
-├── visualizations/
-│   └── feature_importance.png      # Generated plots
-│
-├── app.py                          # Gradio web app
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-````
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
